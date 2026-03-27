@@ -1,0 +1,8 @@
+let a = 10
+let b = 15
+
+let subtraction = a - b
+console.log("subtraction of the 2 number is",subtraction);
+
+let addition = a+b
+console.log("addition of the 2 number is",addition);
